@@ -48,3 +48,5 @@
 47. C3_Mini_ARDUINO_Logo_Visualization [[LINK](https://wokwi.com/projects/425508100208502785)]
 48. C3_Mini_ESPRESSIF_Logo_Visualization [[LINK](https://wokwi.com/projects/425510206334440449)]
 49. C3_Mini_Adafruit_Logo_Visualization [[LINK](https://wokwi.com/projects/425511039846543361)]
+50. C3_mini_shield
+[[LINK](https://wokwi.com/projects/297787059514376717)]
